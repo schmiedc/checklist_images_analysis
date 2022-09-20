@@ -12,9 +12,9 @@ We have developed minimal standards which define non-negotiable requirements for
 
 Our image and image analysis publication guidelines should be simple and easy to use by diverse target groups. We envision the guidelines and check-lists will orient novice and non-expert (scientists that use light microscopy only occasionally) users in preparing high quality images for publication. The guidelines and accomparning educational materials also help expert users, core facility staff, educators, and the global bioimage community to align their respective practices of image preparation. Through the QUAREP initiative we already integrated representative voices from all continents and imaging hubs worldwide. And finally, the checklist may be adopted by journals, manuscript/grant reviewers and funders to rapidly screen the quality of image publications.
 
-## [How to publish images](./publish_images)
+## [How to publish images](pages/publish_images)
 
-## [How to publish image analysis](./publish_analysis)
+## [How to publish image analysis](pages/publish_analysis)
 
 # About WG12
 
