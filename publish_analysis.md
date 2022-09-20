@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Publish image analysis
+title: publish_analysis
 ---
+
+# Publish image analysis
 
 The specific requirements for reporting a particular image analysis workflow will always be unique to the individual workflow, since the analysis in practice is as diverse as the scientific questions and the specific imaging tools employed to answer them. However, to define clear and generalizable guidelines for publishing image analysis we decided to define three distinct classes of image analysis applications that we can observe in the scientific literature. Each of those classes face their own specific challenges when it comes to their reproducibility and therefore require specific recommendations to address them:
 

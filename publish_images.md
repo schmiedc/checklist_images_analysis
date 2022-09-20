@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Image presentation and publication
+title: publish_images
 ---
+
+# Image presentation and publication
 
 Today, the output image data of light microscopes is rarely published without image processing steps. Original image data may contain large areas devoid of information (larger and larger field of views; z-stacks; time-course images), or require image processing and/or reconstitution to become human readable as in the case of light-sheet and superresolution microscopy data. Consequently, the definition of what constitutes an original/ raw microscope image is also dynamic. For presentation and publication image data must be clearly understandable and accessible to wide audiences.
 
